@@ -1,0 +1,7 @@
+# Secrets
+.env
+
+# Dependencies
+node_modules/
+
+dist/
